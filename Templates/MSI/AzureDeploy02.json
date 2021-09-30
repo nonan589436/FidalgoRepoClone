@@ -8,7 +8,7 @@
         },
         "location": {
             "type": "string",
-            "defaultValue": "West US",
+            "defaultValue": "SOUTHEAST ASIA",
         }
     },
     "resources": [

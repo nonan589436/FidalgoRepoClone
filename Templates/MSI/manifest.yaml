@@ -3,4 +3,4 @@ version: 1.0.0
 description: An MSI
 engine:
   type: ARM
-  templatePath: Azuredeploy02.json
+  templatePath: AzureDeploy02.json
